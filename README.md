@@ -27,6 +27,10 @@ items[i].click();
 
 -------------------------------------- 
 
-That’s it!. copy and paste the code to do it again.
+That’s it!. 
 
 ------------------------------------
+
+copy and paste the code to do it again.
+
+-----------------
