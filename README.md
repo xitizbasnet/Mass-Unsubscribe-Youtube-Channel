@@ -18,6 +18,8 @@ INSTRUCTIONS
 -----------------------------
 
 4. Now, simply copy-paste the below “code” into the Console. Once you’ve copied and pasted it into there, just hit your Enter key
+
+------------------------
 var items = $('body').getElementsByClassName("pl-video-edit-remove-liked-video");
 for(var i = 0; i < items.length; i++){
 items[i].click();
